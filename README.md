@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experience in the field of Data Science, Machine Learning, and Deep Learning.
 
 ---
-Live Deployment_link--https://portfolio-ashish-008.netlify.app/
+Live Deployment_link--https://dreamy-platypus-f9ba57.netlify.app/
 
 ## 👨‍💻 About Me
 
